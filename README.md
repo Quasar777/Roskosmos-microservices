@@ -1,4 +1,4 @@
-# microservices-for-roskosmos
+# microservices-for-roskosmos boilerplate
 
 Для того чтобы вызывать команды из Taskfile, необходимо установить Taskfile CLI:
 
